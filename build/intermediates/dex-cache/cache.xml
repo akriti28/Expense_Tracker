@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\expense-tracker1\app\libs\httpmime-4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6acbb2ba813e406f946d33dc14150e24c00b2c57">
+        <dex dex="D:\expense-tracker1\app\build\intermediates\pre-dexed\debug\httpmime-4.2_99e3ef4b31163db1d15e7af2c3bb753e2540edc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\expense-tracker1\app\libs\FlurryAgent.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8f10e5986fdced45f3be2290c701192476dc8cf1">
+        <dex dex="D:\expense-tracker1\app\build\intermediates\pre-dexed\debug\FlurryAgent_54d169b35dbee00bbe2115326434ef91345f1c7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\expense-tracker1\app\libs\AndroidPdfLib.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="21ded6afa9d09d6916e663ce0c5708ca6c2ffa3b">
+        <dex dex="D:\expense-tracker1\app\build\intermediates\pre-dexed\debug\AndroidPdfLib_fd79805e51b1a1df88cc9cc62dd1a96d6d50938e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\akhil\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.1\d8e711ae108185c59c17b36b3c3f11b20cf9b4d5\gson-2.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d8e711ae108185c59c17b36b3c3f11b20cf9b4d5">
+        <dex dex="D:\expense-tracker1\app\build\intermediates\pre-dexed\debug\gson-2.2.1_778c7aa0d9adb3d441fdafcd1aa8ad4edd735897.jar" />
+    </item>
+
+</items>
